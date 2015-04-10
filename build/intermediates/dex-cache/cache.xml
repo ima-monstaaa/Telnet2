@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\michael.cartwright\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\michael.cartwright\AndroidStudioProjects\Telnet2\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-3a5b8071d4712393a773375c51b72ce477001300.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael.cartwright\AndroidStudioProjects\Telnet2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\michael.cartwright\AndroidStudioProjects\Telnet2\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-db6af7f88399cc97e3d686a5935e71b00595859d.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael.cartwright\AndroidStudioProjects\Telnet2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\michael.cartwright\AndroidStudioProjects\Telnet2\app\build\intermediates\pre-dexed\debug\classes-a31eca42878ed9af5ddab12c8b26cc4df6b1e701.jar" />
+    </item>
+    <item
+        jar="C:\Users\michael.cartwright\AndroidStudioProjects\Telnet2\app\libs\commons-net-3.3-sources.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ccfa0721eae567b3c47cfaf3cca20e2491362bf6">
+        <dex dex="C:\Users\michael.cartwright\AndroidStudioProjects\Telnet2\app\build\intermediates\pre-dexed\debug\commons-net-3.3-sources-7138c02716a540d9673c47240930fb498022cb58.jar" />
+    </item>
+
+</items>
